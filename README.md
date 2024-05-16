@@ -35,4 +35,7 @@
 ![Screenshot 2024-05-16 082831](https://github.com/VodcaSmith/GTPS-BOT/assets/122147672/52614e73-2f49-4e2d-b5f6-c7a09e43b2f1)
 
 # DO NOT CHANGE ANY CODE OR YOU CANT USE THE BOT
+**Stealing and assuming you created this code? I'll block your IP and UserID so you can't receive updates anymore**
+
+
 # FULL SOURCE? DM DISCORD (PAID VIA IDR)
