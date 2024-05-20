@@ -11,7 +11,8 @@
 - Check & Panel Command (the difference between the two commands is that the check can be accessed by everyone and the panel is ownerID only and for the panel will be sent via dm.)
 
 ![Screenshot 2024-05-20 075444](https://github.com/VodcaSmith/GTPS-BOT/assets/122147672/bae40d5f-232c-419f-b09c-d0531aef85a0)
-![Screenshot 2024-05-20 075718](https://github.com/VodcaSmith/GTPS-BOT/assets/122147672/001385d9-6093-47bf-a9d9-e57594387ece)
+![Screenshot 2024-05-20 080520](https://github.com/VodcaSmith/GTPS-BOT/assets/122147672/90c4c92e-136d-44c0-ad5f-4c27c2b5aa52)
+
 
 # Update 2.5
 - Fix fake online bugs & Now no need to do npm install anymore
