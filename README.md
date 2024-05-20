@@ -4,7 +4,7 @@
 
 
 # Update 3.0
-- Faster Find Item 100k letters per minute or all seed items in less than 5 minutes (you can enable / disable this command, type "-setfind <enable>/<disable>")
+- Faster Find Item 100k letters per minute or all seed items in less than 5 minutes (you can enable / disable this command, type "-setfind <enable>/<disable>" and place the items.json file in the items folder that has been provided) 
 
 ![Screenshot 2024-05-20 075059](https://github.com/VodcaSmith/GTPS-BOT/assets/122147672/f2fa9830-559c-412b-8810-87901f1087c2)
 
